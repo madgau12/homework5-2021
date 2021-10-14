@@ -78,7 +78,7 @@ nav a:hover{
   z-index: 1;
 
   /* Requirement 3a code here*/
-  position: relative;
+  position: fixed;
   top: -40px;
 }
 
